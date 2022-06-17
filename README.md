@@ -14,7 +14,7 @@ This is the Solidity SmartContract + React.js code for the Bank DAPP 😙
 ## Running React App 🍪
 - Copy `Bank.json` file from `artifacts/contracts/BankContract.sol/` to `src/abi/`
 - Update contractAddress variable in `src/App.js` file with deployed Contract Address
-- Run `npm start` and ENjoy 👌
+- Run `npm start` and Enjoy 👌
 
 
 
